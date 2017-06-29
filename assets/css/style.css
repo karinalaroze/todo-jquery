@@ -1,0 +1,30 @@
+body{
+	background-color: whitesmoke;
+}
+
+nav{
+	background-color: #FFC300;
+	margin-top: -22px;
+
+}
+
+nav h4{
+	color: black;
+}
+
+header, section{
+	padding: 10%;
+	background-color:white;
+	margin-top: 20%;
+}
+
+label{
+	color: black;
+	display: block;
+	margin-top: 20px;
+}
+
+button{
+	margin-left: 220px;
+	margin-top: -70px;
+}
